@@ -1,0 +1,9 @@
+
+
+2022/02/16 10:01:23	Success - (no error encountered)	https://www.empulseudp.com/NVHETM/
+Total time to load login page: 0 minutes 0 seconds
+Total time to load after login page: 0 minutes 0 seconds
+
+2022/02/17 09:54:38	Success - (no error encountered)	https://www.empulseudp.com/NVHETM/
+Total time to load login page: 0 minutes 0 seconds
+Total time to load after login page: 0 minutes 0 seconds

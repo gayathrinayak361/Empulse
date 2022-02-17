@@ -1,0 +1,17 @@
+
+
+2022/02/16 09:54:20	Success - (no error encountered)	https://empulseit.com/IAHS/
+Total time to load login page: 0 minutes 20 seconds
+Total time to load after login page: 0 minutes 0 seconds
+
+2022/02/16 09:55:59	Success - (no error encountered)	https://empulseit.com/IAHS/
+Total time to load login page: 0 minutes 16 seconds
+Total time to load after login page: 0 minutes 0 seconds
+
+2022/02/16 09:57:23	Success - (no error encountered)	https://empulseit.com/IAHS/
+Total time to load login page: 0 minutes 11 seconds
+Total time to load after login page: 0 minutes 0 seconds
+
+2022/02/17 09:45:26	Success - (no error encountered)	https://empulseit.com/IAHS/
+Total time to load login page: 0 minutes 9 seconds
+Total time to load after login page: 0 minutes 0 seconds

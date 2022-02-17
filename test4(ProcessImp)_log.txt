@@ -1,0 +1,10 @@
+
+
+
+2022/02/16 10:02:44	Success - (no error encountered)	https://www.empulseudp.com/ProcessImprovement/
+Total time to load login page: 0 minutes 0 seconds
+Total time to load after login page: 0 minutes 0 seconds
+
+2022/02/17 09:56:07	Success - (no error encountered)	https://www.empulseudp.com/ProcessImprovement/
+Total time to load login page: 0 minutes 0 seconds
+Total time to load after login page: 0 minutes 0 seconds
